@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+.section{
+    background-color: rgb(154, 203, 220);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 10rem auto 0 auto;
+}
+.section img{
+    height: 250px;
+ 
+}
+.section h1{
+    color: rgb(255, 89, 0);
+}
+.section p{
+    color: #000000;
+    margin-top: 15px;
+}
+.section h2{
+    color: rgb(238, 255, 0);
+}
+.section h4{
+    color: red;
+}
+
+
